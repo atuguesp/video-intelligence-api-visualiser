@@ -22,7 +22,7 @@ features = [
 ]
 
 transcript_config = videointelligence.SpeechTranscriptionConfig(
-    language_code="en-US", enable_automatic_punctuation=True
+    language_code="es-VE", enable_automatic_punctuation=True
 )
 
 person_config = videointelligence.PersonDetectionConfig(
